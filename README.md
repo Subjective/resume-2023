@@ -1,6 +1,6 @@
 # Resume
 
-This is my resume as a first year freshman at the University of Washington. [Click here](resume.pdf) to view the pdf.
+This is my resume as a first year freshman at the University of Washington. [Click here](resume.pdf) to view and/or download the pdf.
 
 <img src="resume.png" align=center alt="Joshua Yin's Resume">
 
